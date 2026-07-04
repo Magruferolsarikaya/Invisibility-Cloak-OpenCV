@@ -10,4 +10,4 @@ This project recreates the famous Harry Potter Invisibility Cloak using Python a
 ## 🚀 How to Run
 ```bash
 pip install opencv-python numpy
-python pelerin.py
+python visibility.py
